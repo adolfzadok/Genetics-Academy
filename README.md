@@ -1,2 +1,2 @@
 # Genetics-Academy
-This academy will teach academics
+This academy will teach genetics from scratch 
